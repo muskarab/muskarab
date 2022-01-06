@@ -1,6 +1,6 @@
 ### Hi, I'm Mustafa Kamal Rabbani 👋
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muskarab&label=Profile%20views&color=0e75b6&style=flat" alt="muskarab" /> </p>
+
 <!--
 **muskarab/muskarab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=muskarab&show_icons=true&theme=vue-dark&line_height=27" alt="muskarab" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muskarab&show_icons=true&locale=en&layout=compact" alt="muskarab" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muskarab&show_icons=true&locale=en" alt="muskarab" /></p>
